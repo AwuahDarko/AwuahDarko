@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yaw Darko Awuah Jackson
 - 👀 I’m a Senior Fullstack web and Mobile App Developer (iOS and Android, Flutter)
-- 🌱 My area if interest is in Artificial Intelligence (Neural Networks)
-- 💞️ I’m looking to collaborate on A.I projects
+- 🌱 My area if interest is in Embedded Systems and Robotics
+- 💞️ I’m looking to collaborate on any software and electronics projects
 - 📫 How to reach me ... Email: mjadarko@gmail.com Call/WhatsApp: +233553567136
 
 <!---
